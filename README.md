@@ -4,7 +4,7 @@ For an overview of how things work in `Nuxt.js` please refer to the [Nuxt.js doc
 
 ## How to start
 ```
-git clone git@github.com:mtskf/GraphCMS-Starter-with-Nuxt-Vue.git && cd GraphCMS-Starter-with-Nuxt-Vue/nuxt-apollo-blog && yarn && yarn dev
+git clone git@github.com:mtskf/GraphCMS-Starter-with-Nuxt-Vue.git && cd GraphCMS-Starter-with-Nuxt-Vue && yarn && yarn dev
 ```
 
 
