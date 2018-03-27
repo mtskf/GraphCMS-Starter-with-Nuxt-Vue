@@ -23,7 +23,8 @@ module.exports = {
           exclude: /(node_modules)/
         })
       }
-    }
+    },
+    vender: ['graphql-tag']
   },
   modules: [
     '@nuxtjs/apollo',

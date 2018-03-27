@@ -42,9 +42,6 @@
       $loadingKey: 'loading',
       allPosts: {
         query: allPosts,
-        // update () {
-        //   this.postCount = this.allPost.count
-        // },
         variables () {
           return {
             skip: 0,

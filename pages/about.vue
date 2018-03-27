@@ -33,7 +33,8 @@
     apollo: {
       $loadingKey: 'loading',
       allAuthors: {
-        query: allAuthors
+        query: allAuthors,
+        prefetch: true
       }
     }
   }
